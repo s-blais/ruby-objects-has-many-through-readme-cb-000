@@ -36,5 +36,4 @@ class Waiter
     worst_tipped_meal.customer
   end
 
-
 end
